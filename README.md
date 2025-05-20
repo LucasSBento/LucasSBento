@@ -1,4 +1,4 @@
-## Hi there 👋
+<h1>Lucas Bento</h1>
 
 <!--
 **LucasSBento/LucasSBento** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

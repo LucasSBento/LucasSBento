@@ -8,7 +8,9 @@
 
 ## Tecnologias do meu dia a dia
 [![My Skills](https://skillicons.dev/icons?i=cs,unity,visualstudio,vscode&theme=dark)](https://skillicons.dev)
-##Apaixonado em jogos, academia e curtir com a família
+
+Apaixonado em jogos, academia e curtir com a família
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LucasSBento/LucasSBento/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LucasSBento/LucasSBento/output/github-contribution-grid-snake.svg">

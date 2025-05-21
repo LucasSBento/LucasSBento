@@ -4,7 +4,7 @@
 
 ![Lucas Bento GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasSBento&show_icons=true&theme=highcontrast)
 
-[![My Skills](https://skillicons.dev/icons?i=cs&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,unity&theme=dark)](https://skillicons.dev)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LucasSBento/LucasSBento/output/github-contribution-grid-snake-dark.svg">

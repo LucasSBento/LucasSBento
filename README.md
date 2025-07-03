@@ -7,7 +7,7 @@
 ![Lucas Bento GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasSBento&show_icons=true&theme=highcontrast)
 
 ## Tecnologias do meu dia a dia
-[![My Skills](https://skillicons.dev/icons?i=cs,visualstudio,vscode,js&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,visualstudio,vscode,html,css,js&theme=dark)](https://skillicons.dev)
 
 Apaixonado em jogos, academia e curtir com a família
 

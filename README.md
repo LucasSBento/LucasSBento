@@ -9,7 +9,13 @@
 ## Tecnologias do meu dia a dia
 [![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,cs,dotnet,java,postgresql,git&theme=dark)](https://skillicons.dev)
 
-Apaixonado em jogos, academia e curtir com a família
+## Tecnologias em aprendizado e aprimoramento
+[![My Skills](https://skillicons.dev/icons?i=python,sqlserver,cs,dotnet&theme=dark)](https://skillicons.dev)
+
+## Principais objetivos
+- Aprender inteligência artificial
+- Abrir meu próprio negócio tecnológico
+- Ser um engenheiro de softwares
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LucasSBento/LucasSBento/output/github-contribution-grid-snake-dark.svg">

@@ -10,7 +10,7 @@
 [![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,cs,dotnet,java,postgresql,git&theme=dark)](https://skillicons.dev)
 
 ## Tecnologias em aprendizado e aprimoramento
-[![My Skills](https://skillicons.dev/icons?i=python,sqlserver,cs,dotnet&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,cs,dotnet&theme=dark)](https://skillicons.dev)
 
 ## Principais objetivos
 - Aprender inteligência artificial

@@ -12,10 +12,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LucasSBento&show_icons=true&theme=highcontrast" alt="GitHub Stats" />
-</p>
-
 ---
 
 ## Tecnologias em Uso Profissional

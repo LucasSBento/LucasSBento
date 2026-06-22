@@ -4,11 +4,11 @@
 
 <p><b>Desenvolvedor .NET &nbsp;·&nbsp; Técnico em Desenvolvimento de Sistemas &nbsp;·&nbsp; Competidor WorldSkills</b></p>
 
-<p>Petrópolis, RJ — Brasil &nbsp;·&nbsp; 18 anos (nascido em 2007)</p>
+<p>Petrópolis, RJ — Brasil &nbsp;·&nbsp; 18 anos (nascido em 2008)</p>
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-de-souza-bento-davi-511957305/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucasbento-dev/)
 &nbsp;
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/lucas.sdbento/)
 &nbsp;
@@ -33,8 +33,7 @@ Foco atual: representar o Brasil no **WorldSkills Internacional 2028**, em Aichi
 | | |
 |---|---|
 | **Competição** | WorldSkills Brasil · Categoria 09 — IT Software Solutions for Business |
-| **Fase atual** | Fase Estadual — Junho 2026 |
-| **Trajeto** | Estadual → Desempate Estadual (mar/2027) → Nacional (dez/2027) → Internacional (nov/2028) |
+| **Fase atual** | Campeão Estadual — Junho 2026 |
 | **Objetivo** | WorldSkills Internacional · Aichi, Japão · Novembro de 2028 |
 | **Instituição** | SESI SENAI Petrópolis |
 
@@ -69,18 +68,18 @@ Tecnologias utilizadas diretamente na preparação e nos projetos WorldSkills:
 [próximo] Programa de Residência em TIC (770h)
           Serratec Hub de Tecnologia · Petrópolis, RJ
 
-[futuro]  Ensino Superior em Engenharia de Software ou Ciência da Computação
+[futuro]  Ensino Superior em Engenharia de Software
 
 [meta]    WorldSkills Internacional · Aichi, Japão · Novembro de 2028
 ```
 
 ---
 
-## Repositório de Treino
+## Repositório de Projetos
 
 | Repositório | Stack | Descrição |
 |---|---|---|
-| [WorldSkills-Trainment](https://github.com/LucasSBento/WorldSkills-Trainment) | C# · .NET · SQL Server | Projetos de treino para a WorldSkills Categoria 09 — APIs REST, WinForms, modelagem de banco de dados |
+| [Etapa Estadual](https://github.com/lucasbento-dev/EtapaEstadual-09-WorldSkills) | C# · .NET · SQL Server | Projetos da etapa estadual da WorldSkills Categoria 09 — APIs REST, WinForms, modelagem de banco de dados |
 
 ---
 
